@@ -9,3 +9,9 @@ JST provides some official models, for links see [this blogpost](https://techove
 
 My goal with this series of 3D models is to provide liberally licensed (CC1.0 is as liberal as it gets :-) ) and parametric models so that anyone can freely adjust them to their needs.
 Additionally, I want them to look at least realistic (even though some angles and measurements need to be estimated).
+
+### What do the models look like?
+
+![B2P-VH](./images/B2P-VH.png)
+![B3P-VH](./images/B3P-VH.png)
+![B4P-VH](./images/B4P-VH.png)
