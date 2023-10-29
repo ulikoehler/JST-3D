@@ -1,4 +1,4 @@
-# JST-VH-3D
+# JST-3D
 
 Unofficial JST VH 3D models (parametrically modeled in Fusion360).
 Modeled after the official [datasheet](https://datasheet.lcsc.com/lcsc/2304140030_JST-Sales-America-B2P-VH-LF-SN_C160315.pdf) and my own 
