@@ -14,4 +14,4 @@ Additionally, I want them to look at least realistic (even though some angles an
 
 ![B2P-VH](./models/VH/B2P-VH/B2P-VH.png)
 ![B4P-VH](./models/VH/B4P-VH/B4P-VH.png)
-![B4PS-VH](./models/VH/B4PS-VH/S-VH.png)
+![B4PS-VH](./models/VH/B4PS-VH/B4PS-VH.png)
